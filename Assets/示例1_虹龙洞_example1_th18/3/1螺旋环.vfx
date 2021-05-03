@@ -306,7 +306,6 @@ MonoBehaviour:
   m_ResourceVersion: 1
   m_saved: 1
   m_SubgraphDependencies:
-  - {fileID: 5371698745253816930, guid: 76ca884a541a84dd288c8724f28d5a25, type: 3}
   - {fileID: 5371698745253816930, guid: 4eb5756f813e27243a6be9c20036e4fa, type: 3}
   m_CategoryPath: 
 --- !u!2058629511 &8926484042661614527
